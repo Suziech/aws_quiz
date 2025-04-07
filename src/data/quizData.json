@@ -1,0 +1,72 @@
+[
+  {
+    "question": "What is the primary benefit of using AWS Lambda?",
+    "options": [
+      "It allows running applications on physical servers",
+      "It provides automatic scaling without managing servers",
+      "It requires manual provisioning of EC2 instances",
+      "It only supports Java applications"
+    ],
+    "correctAnswer": "It provides automatic scaling without managing servers"
+  },
+  {
+    "question": "Which AWS service is used to store objects such as images, videos, and backups?",
+    "options": ["Amazon EC2", "Amazon S3", "Amazon RDS", "Amazon VPC"],
+    "correctAnswer": "Amazon S3"
+  },
+  {
+    "question": "Which AWS service provides a globally distributed content delivery network (CDN)?",
+    "options": ["Amazon CloudFront", "Amazon RDS", "AWS Lambda", "Amazon SNS"],
+    "correctAnswer": "Amazon CloudFront"
+  },
+  {
+    "question": "Which AWS service is a fully managed NoSQL database?",
+    "options": [
+      "Amazon RDS",
+      "Amazon DynamoDB",
+      "Amazon S3",
+      "Amazon Redshift"
+    ],
+    "correctAnswer": "Amazon DynamoDB"
+  },
+  {
+    "question": "What is the main purpose of Amazon EC2 Auto Scaling?",
+    "options": [
+      "To manually add EC2 instances",
+      "To automatically adjust the number of EC2 instances based on demand",
+      "To create a virtual private cloud",
+      "To store and retrieve data"
+    ],
+    "correctAnswer": "To automatically adjust the number of EC2 instances based on demand"
+  },
+  {
+    "question": "Which AWS service is used for monitoring resources and setting alarms?",
+    "options": ["Amazon CloudWatch", "AWS IAM", "Amazon RDS", "AWS CloudTrail"],
+    "correctAnswer": "Amazon CloudWatch"
+  },
+  {
+    "question": "What is AWS IAM used for?",
+    "options": [
+      "Managing security policies and permissions",
+      "Running virtual machines",
+      "Storing large amounts of data",
+      "Creating network infrastructure"
+    ],
+    "correctAnswer": "Managing security policies and permissions"
+  },
+  {
+    "question": "Which AWS service provides managed relational databases?",
+    "options": ["Amazon RDS", "Amazon DynamoDB", "Amazon S3", "AWS Lambda"],
+    "correctAnswer": "Amazon RDS"
+  },
+  {
+    "question": "Which AWS service helps in migrating databases to AWS?",
+    "options": ["AWS DMS", "Amazon EC2", "AWS Lambda", "Amazon S3"],
+    "correctAnswer": "AWS DMS"
+  },
+  {
+    "question": "Which AWS service helps secure applications by managing user authentication?",
+    "options": ["Amazon Cognito", "Amazon EC2", "Amazon S3", "AWS Glue"],
+    "correctAnswer": "Amazon Cognito"
+  }
+]
